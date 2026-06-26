@@ -66,7 +66,7 @@ AI-Phishing-Email-Detector/
 │
 ├── templates/
 ├── static/
-└── screenshots/
+└── Screenshots will be added after the project reaches the first stable release.
 ```
 
 ---
