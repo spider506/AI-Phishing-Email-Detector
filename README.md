@@ -1,5 +1,7 @@
 # 🛡️ AI-Powered Phishing Email Detection System
 
+> 🚧 **Status:** Active Development (Version 0.5)
+
 An AI-powered phishing email detection and threat analysis platform built using **Python**, **Flask**, and **Machine Learning**. The application analyzes email content, URLs, domains, authentication headers, and threat intelligence to identify phishing attempts and generate comprehensive security reports.
 
 ---
