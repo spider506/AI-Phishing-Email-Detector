@@ -216,11 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Google OAuth
 credentials.json
 client_secret.json
 token.json
 token.pickle
+
+# Environment
 .env
+
+# Python
 __pycache__/
 venv/
+
+# Database
 *.db
+*.sqlite3
